@@ -11,4 +11,4 @@ Editing functionality
 
   All together
 <p align="center">
-  https://user-images.githubusercontent.com/41402096/160026036-0ba3e815-d7f4-4487-947c-3c0630f07c3b.mp4
+https://user-images.githubusercontent.com/41402096/160026036-0ba3e815-d7f4-4487-947c-3c0630f07c3b.mp4
