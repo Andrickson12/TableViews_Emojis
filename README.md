@@ -9,3 +9,4 @@ Editing functionality
 <p align="center">
 <img src="https://user-images.githubusercontent.com/41402096/160024463-342de31a-f8a4-443f-bcbf-6f678ac953ad.png" width="350" height="750" />
 
+  All together
