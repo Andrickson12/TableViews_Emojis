@@ -10,4 +10,5 @@ Editing functionality
 <img src="https://user-images.githubusercontent.com/41402096/160024463-342de31a-f8a4-443f-bcbf-6f678ac953ad.png" width="350" height="750" />
 
 All together
+  
 https://user-images.githubusercontent.com/41402096/160026036-0ba3e815-d7f4-4487-947c-3c0630f07c3b.mp4
